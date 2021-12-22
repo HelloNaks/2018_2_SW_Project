@@ -1,2 +1,3 @@
 # 2018_2_SW_Project
-File size is too big, so I uploaded a video instead.
+소프트웨어설계기초 수업에 제출한 최종영상입니다.
+C언어로 제작한 게임입니다.
